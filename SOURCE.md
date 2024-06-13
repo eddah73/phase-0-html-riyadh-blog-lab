@@ -1,7 +1,7 @@
 HEADING
 
-`Welcome to Riyadh`
-
+`Welcome to Riyad`
+h
 SUB HEAD
 
 `Where A Traditional Past Meets A Modern Future.`
